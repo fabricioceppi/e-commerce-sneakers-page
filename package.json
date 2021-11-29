@@ -1,7 +1,8 @@
 {
-  "name": "e-commerce-sneakers",
+  "name": "e-commerce-sneakers-page",
   "version": "0.1.0",
   "private": true,
+  "homepage":"https://fabricioceppi.github.io/e-commerce-sneakers-page/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.15.1",
     "@testing-library/react": "^11.2.7",
